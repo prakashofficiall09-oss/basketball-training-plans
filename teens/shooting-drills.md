@@ -5,8 +5,8 @@
 **Equipment Needed:** 1 ball per player, 1 hoop.
 
 **Instructions:**
-1. Start 2–4 feet from the basket.
-2. Focus on balanced feet and a smooth one-motion shot.
-3. Make 10–20 shots, then take a small step back.
+1. Start 2–3 feet from the basket.
+2. Make 10–15 shots focusing on balance and a smooth one-motion shot.
+3. Take a small step back and repeat for two rounds.
 
-**Coaching Tips:** Emphasize follow-through, elbow alignment, and soft release.
+**Coaching Tips:** Keep elbow aligned and hold the follow-through on every shot.
