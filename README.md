@@ -23,7 +23,7 @@ Coaches can contribute by adding new drills, improving instructions, or sharing 
 ## Sample: Add a New Drill
 Add a new drill section or file using the same structure as the starters:
 
-```
+```markdown
 # Two-Ball Pound Drill
 
 **Purpose:** Improve ambidextrous ball control and rhythm.
